@@ -1,6 +1,7 @@
-NOVA SOFTWARE LICENSE
+**NOVA SOFTWARE LICENSE**
 
 Copyright (c) 2026 Nawrasse Andaloussi Dahman. All Rights Reserved.
+
 **Last updated:** October 13, 2026
 
 This Nova Software License ("License") governs the license granted to you for

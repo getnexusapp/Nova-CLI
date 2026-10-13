@@ -25,9 +25,9 @@ signed by Nawrasse Andaloussi Dahman.
 1. RELATIONSHIP TO THE NEXUS EULA AND THE NEXUS SOFTWARE LICENSE
 
 Nova is part of the Nexus software ecosystem. Your use of Nova is governed by
-this License and by the Nexus End User License Agreement
-(https://nexusworkspace.net/eula), which forms part of the legal terms
-governing Nova. Nova is treated as part of the "Software" for purposes of the
+this License and by the [Nexus End User License Agreement](https://nexusworkspace.net/eula),
+which forms part of the legal terms governing Nova.
+Nova is treated as part of the "Software" for purposes of the
 EULA, and your use of Nexus Cloud Service features through Nova is governed by
 the EULA and the Nexus Privacy Policy.
 

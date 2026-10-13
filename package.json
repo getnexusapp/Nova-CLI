@@ -1,18 +1,30 @@
 {
-  "name": "create-nexus-app",
-  "version": "1.0.0",
-  "description": "Cross-platform CLI tool for Nexus",
-  "main": "bin/cli.js",
+  "name": "@getnexus/nova",
+  "version": "1.2.0",
+  "description": "Official CLI companion for Nexus App",
+  "type": "module",
   "bin": {
-    "nexus": "bin/cli.js",
-    "create-nexus-app": "bin/cli.js"
+    "nova": "bin/nova.js"
   },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
   "keywords": [
     "nexus",
-    "cli"
+    "getnexus",
+    "workspace",
+    "cli",
+    "nova"
   ],
-  "license": "MIT",
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE.md"
+  ],
   "dependencies": {
-    "open": "^8.4.2"
-  }
+    "commander": "^14.0.0",
+    "open": "^10.2.0"
+  },
+  "author": "Nawrasse Andaloussi Dahman"
 }

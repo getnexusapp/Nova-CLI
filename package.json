@@ -1,10 +1,5 @@
 {
   "name": "@getnexus/nova",
-<<<<<<< HEAD
-  "version": "1.2.0",
-  "description": "Official CLI companion for Nexus App",
-  "type": "module",
-=======
   "version": "1.9.0",
   "description": "Official CLI companion for Nexus - install, update, sign in and check Nexus from your terminal.",
   "type": "module",
@@ -18,22 +13,12 @@
   "bugs": {
     "email": "support@nexusworkspace.net"
   },
->>>>>>> 6659c38 (Update Nova CLI)
   "bin": {
     "nova": "bin/nova.js"
   },
   "engines": {
     "node": ">=20"
   },
-<<<<<<< HEAD
-  "license": "SEE LICENSE IN LICENSE.md",
-  "keywords": [
-    "nexus",
-    "getnexus",
-    "workspace",
-    "cli",
-    "nova"
-=======
   "os": [
     "win32"
   ],
@@ -52,7 +37,6 @@
     "windows",
     "installer",
     "workspace"
->>>>>>> 6659c38 (Update Nova CLI)
   ],
   "files": [
     "bin",
@@ -62,10 +46,5 @@
   "dependencies": {
     "commander": "^14.0.0",
     "open": "^10.2.0"
-<<<<<<< HEAD
-  },
-  "author": "Nawrasse Andaloussi Dahman"
-=======
   }
->>>>>>> 6659c38 (Update Nova CLI)
 }
